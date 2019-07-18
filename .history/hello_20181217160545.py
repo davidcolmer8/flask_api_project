@@ -1,0 +1,9 @@
+from flask import Flaskapp = Flask(__name__)
+
+@app.route('/')
+def home():
+    return 'server is running'
+
+@app.route('/uuid')
+def getUUID():
+    return "1234"

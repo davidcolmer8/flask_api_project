@@ -1,0 +1,14 @@
+projectFolder/
+|
+|
+|___simpleApp/
+|       |__ 
+|           
+|
+|___tests/
+|       |__
+        |__ test_home.py
+|       |__ test_app.py
+|
+|___setup.py
+|___README.md

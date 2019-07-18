@@ -1,0 +1,16 @@
+projectFolder/
+|
+|
+|___simpleApp/
+
+|       |--- app.py
+|       |--- wsgi.py    
+|       |--- cli.py
+|
+|___tests/
+|       |--- conftest.py
+|       |--- test_home.py
+|       |---test_app.py
+|
+|---setup.py
+|---README.md

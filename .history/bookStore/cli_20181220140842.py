@@ -1,0 +1,1 @@
+Hi Eddie we could use the cash on ‘Blue Monday’. Monday 21 January. Same deal get a a lot of grub in and have the craic. More people here and good PR for LinkedIn saves trying to get something pushed through for the sake of it. Just a thought.
